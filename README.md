@@ -26,35 +26,35 @@ This is an updated archive of all of the resources listed in the resources secti
 
 #### 2D Engines and Libraries
 
-* Slick2D (Hardware Accelerated 2D Games Library)
-* PulpCore (2D Games Engine, especially good for Applets)
-* LibGDX (2D and 3D OpenGL library, both desktop and Android support, and more)
+* [Slick2D (Hardware Accelerated 2D Games Library)](https://slick.ninjacave.com/)
+* [PulpCore (2D Games Engine, especially good for Applets)](https://code.google.com/archive/p/pulpcore/)
+* [LibGDX (2D and 3D OpenGL library, both desktop and Android support, and more)](https://libgdx.com/)
 
 #### 3D Engines and Libraries
 
-* Ardor3D (Java based 3D engine)
-* JMonkeyEngine (Java based 3D engine)
-* jPCT (Java based 3D engine)
-* LibGDX (2D and 3D OpenGL library, both desktop and Android support, and more)
-* Clyde (For creating action-oriented networked 3D games in Java.)
-* Xith3D (Java based 3D engine)
-* Ogre4J (Java binding to the popular C++ engine Ogre3D)
-* 3DzzD (Java based 3D engine for webpages)
+* [Ardor3D (Java based 3D engine)](https://github.com/Renanse/Ardor3D)
+* [JMonkeyEngine (Java based 3D engine)](https://jmonkeyengine.org/)
+* [jPCT (Java based 3D engine)]](https://www.jpct.net/)
+* [LibGDX (2D and 3D OpenGL library, both desktop and Android support, and more)](https://libgdx.com/)
+* [Clyde (For creating action-oriented networked 3D games in Java.)](https://github.com/threerings/clyde)
+* [Xith3D (Java based 3D engine) (archive)](https://web.archive.org/web/20180730104612/http://xith.org/)
+* [Ogre4J (Java binding to the popular C++ engine Ogre3D)](https://wiki.ogre3d.org/Ogre4j)
+* [3DzzD (Java based 3D engine for webpages)](https://dzzd.net/)
 
 #### Graphics and Sound Bindings
 
-* LWJGL (OpenGL, OpenAL, OpenCL, JInput)
-* JogAmp (OpenGL, OpenAL, OpenCL)
+* [LWJGL (OpenGL, OpenAL, OpenCL, JInput)](https://www.lwjgl.org/)
+* [JogAmp (OpenGL, OpenAL, OpenCL)](https://jogamp.org/)
 
 #### Sound Libraries
 
-* Paulscode 3D Sound Engine (abstraction layer over JavaSound, OpenAL, etc)
+* [Paulscode 3D Sound Engine (abstraction layer over JavaSound, OpenAL, etc)](http://www.paulscode.com/forum/index.php?topic=4.0)
 
 #### Physics Libraries
 
-* JBox2D (2D physics engine, straight port of the C++ Box2D engine)
-* Fizzy (2D physics engine, based on JBox2D. Presents a more familiar environment to Java programmers)
-* JBullet (3D physics engine)
+* [JBox2D (2D physics engine, straight port of the C++ Box2D engine)](http://www.jbox2d.org/)
+* [Fizzy (2D physics engine, based on JBox2D. Presents a more familiar environment to Java programmers)](https://www.cokeandcode.com/main/code/)
+* [JBullet (3D physics engine)](http://jbullet.advel.cz/)
 
 #### Network Libraries
 
