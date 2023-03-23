@@ -17,7 +17,7 @@ This is an updated archive of all of the resources listed in the resources secti
 
 * [Java 2D Game Tutorials by ZetCode](https://zetcode.com/javagames/)
 * [Games4j Wiki Tutorials (archive)](https://web.archive.org/web/20160323044957/http://wiki.games4j.com/wiki/en/StartingPoints)
-* [Coke and Code Tutorials (archive)](https://web.archive.org/web/20210723220550/https://www.cokeandcode.com/tutorials/)
+* [Coke and Code Tutorials](https://www.cokeandcode.com/info/)
 * [The Ninja Cave Tutorials (archive)](https://web.archive.org/web/20180216165519/https://ninjacave.com/tutorials)
 * [Metanet Software Physics](https://www.metanetsoftware.com/dev/tutorials)
 * [2D Game Tutorials by sproingie](https://web.archive.org/web/20180716130414/http://www.gametutorial.net/)
